@@ -3,7 +3,6 @@ Welcome to the official website repository for the Echelon Dev Society! This is 
 
 The website features a clean, component-based architecture, a dynamic image slider, and a dark/light mode toggle.
 
-(Note: Apni website ka ek actual screenshot yahaan add karein)
 
 ✨ Key Features
 🤖 AI Support Chat: A special floating chat widget powered by the Groq API (details neeche hain).
