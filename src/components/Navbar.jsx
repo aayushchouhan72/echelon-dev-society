@@ -28,7 +28,7 @@ const Navbar = ({ onMenuToggle, isMenuOpen, theme, toggleTheme }) => {
           <img
             src={clubInfo.logoUrl}
             alt="Echelon Dev Society Logo"
-            className="h-12 w-12 rounded-full transform transition duration-300 ease-in-out hover:scale-90"
+            className="h-17 w-17 rounded-full transform transition duration-300 ease-in-out hover:scale-90"
           />
         </a>
         <div className="hidden md:flex items-center space-x-6">
