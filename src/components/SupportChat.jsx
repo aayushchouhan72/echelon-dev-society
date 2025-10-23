@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const XIcon = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
